@@ -3,38 +3,35 @@ package main
 import "fmt"
 
 func main() {
+	/*
+	   	//EXPERIEMNT 1
+	   	//QUESTION 1
+	   	//hello code
+	   	//fmt.Println("Hello! Kabir")
 
-	//EXPERIEMNT 1
-	//QUESTION 1
-	//hello code
-	fmt.Println("Hello! Kabir")
+	   	// Declare two integer and two float variables
+	   	// and perform addition, subtraction, and multiplication
+	   	//  using integer and floating-point types.
 
-	// Declare two integer and two float variables
-	// and perform addition, subtraction, and multiplication
-	//  using integer and floating-point types.
+	   	//num1 := 22
+	   	//num2 := 10
 
-	num1 := 22
-	num2 := 10
+	   	//fmt.Printf("Addition: %d\n", num1+num2)
+	   	//fmt.Printf("Subtraction: %d\n", num1-num2)
+	   	//fmt.Printf("Multiplication: %d\n", num1*num2)
+	   	//fmt.Printf("Division: %d\n", num1/num2)
 
-	fmt.Printf("Addition: %d\n", num1+num2)
-	fmt.Printf("Subtraction: %d\n", num1-num2)
-	fmt.Printf("Multiplication: %d\n", num1*num2)
-	fmt.Printf("Division: %d\n", num1/num2)
+	   	//Float function
 
-	//Float function
-	var num1, num2 float64
+	   	var num1 float64 = 34.2
+	   	var num2 float64 = 67.7
 
-	fmt.Print("Enter first number: ")
-	fmt.Scan(&num1)
-
-	fmt.Print("Enter second number: ")
-	fmt.Scan(&num2)
-
-	fmt.Printf("Addition: %.2f\n", num1+num2)
-	fmt.Printf("Subtraction: %.2f\n", num1-num2)
-	fmt.Printf("Multiplication: %.2f\n", num1*num2)
-	fmt.Printf("Division: %.2f\n", num1/num2)
-
+	   	fmt.Printf("Addition: %.2f\n", num1+num2)
+	   	fmt.Printf("Subtraction: %.2f\n", num1-num2)
+	   	fmt.Printf("Multiplication: %.2f\n", num1*num2)
+	   	fmt.Printf("Division: %.2f\n", num1/num2)
+	   }
+	*/
 	//QUESTION 2
 	//Accept numeric input.
 	//Perform addition, subtraction, and multiplication using integer types.
